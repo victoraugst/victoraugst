@@ -1,6 +1,6 @@
 ## Hi! Im Victor Augusto 🖐️
 
-## 👨🏻‍💻 Web Developer and Designer
+👨🏻‍💻 Web Developer and Designer
 
 ## Tecnologias que eu uso no meu dia
 
