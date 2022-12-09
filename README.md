@@ -1,5 +1,7 @@
 ## Hi! Im Victor Augusto 🖐️
 
+## 👨🏻‍💻 Web Developer and Designer
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
