@@ -3,7 +3,7 @@ Hi, im Victor Augusto
 
 💻 Skills :
 
-Html ---------------- 
-Css  ----------------
-Js   ----------
-NodeJS -----
+Html -
+Css  -
+Js   -
+NodeJS -
