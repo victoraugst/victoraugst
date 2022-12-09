@@ -4,6 +4,8 @@
     Olá! Eu sou o 
     <a href="https://www.linkedin.com/in/victoraugst/">Victor Augusto</a>
   </h1>
+  
+  <p>Estudante e Web Developer focado na área de Front-End</p>
 
   
 </div>
