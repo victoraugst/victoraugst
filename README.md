@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Olá! Eu sou 
-    <a href="https://www.linkedin.com/in/victoraugst/">Victor Augusto</a>
+    <a href="https://github.com/victoraugst/">Victor Augusto</a>
   </h1>
   
   <p align="center">Estudante e Web Developer focado na área de Front-End!</p>
